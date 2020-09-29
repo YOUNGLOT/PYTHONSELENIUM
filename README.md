@@ -1,6 +1,6 @@
 # PYTHON SELENIUM
 
-#설명
+# 설명
 공공 데이터 포털에서 받은 JSON File (점포) 의 데이터중 LONGITUDE, LATITUDE (위도, 경도) 가 없는 데이터 발견
   
   KAKAO MAP에서 점포 명 검색 후 위도 경도 확인
